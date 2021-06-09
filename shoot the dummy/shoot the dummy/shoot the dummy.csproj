@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>shoot_the_dummy</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\background.png" />
+    <None Remove="images\dummy01.png" />
+    <None Remove="images\dummy02.png" />
+    <None Remove="images\dummy03.png" />
+    <None Remove="images\dummy04.png" />
+    <None Remove="images\ghost.png" />
+    <None Remove="images\sniper-aim.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\background.png" />
+    <Resource Include="images\dummy01.png" />
+    <Resource Include="images\dummy02.png" />
+    <Resource Include="images\dummy03.png" />
+    <Resource Include="images\dummy04.png" />
+    <Resource Include="images\ghost.png" />
+    <Resource Include="images\sniper-aim.png" />
+  </ItemGroup>
+
+</Project>

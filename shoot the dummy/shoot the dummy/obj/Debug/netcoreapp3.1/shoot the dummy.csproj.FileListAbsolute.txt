@@ -1,0 +1,16 @@
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\bin\Debug\netcoreapp3.1\shoot the dummy.exe
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\bin\Debug\netcoreapp3.1\shoot the dummy.deps.json
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\bin\Debug\netcoreapp3.1\shoot the dummy.runtimeconfig.json
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\bin\Debug\netcoreapp3.1\shoot the dummy.runtimeconfig.dev.json
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\bin\Debug\netcoreapp3.1\shoot the dummy.dll
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\bin\Debug\netcoreapp3.1\shoot the dummy.pdb
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\obj\Debug\netcoreapp3.1\App.g.cs
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\obj\Debug\netcoreapp3.1\shoot the dummy_MarkupCompile.cache
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\obj\Debug\netcoreapp3.1\shoot the dummy_MarkupCompile.lref
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\obj\Debug\netcoreapp3.1\shoot the dummy.g.resources
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\obj\Debug\netcoreapp3.1\shoot the dummy.AssemblyInfoInputs.cache
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\obj\Debug\netcoreapp3.1\shoot the dummy.AssemblyInfo.cs
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\obj\Debug\netcoreapp3.1\shoot the dummy.dll
+F:\suli\SZAROS MECHWART\Komplex programozás\shoot the dummy\shoot the dummy\obj\Debug\netcoreapp3.1\shoot the dummy.pdb
